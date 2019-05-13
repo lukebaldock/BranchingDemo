@@ -1,0 +1,13 @@
+body {
+  background-color: coral; }
+  body h1 {
+    margin: 5em;
+    padding: 5em;
+    border: white 0.5em solid;
+    text-align: center;
+    color: white;
+    font-family: helvetica;
+    text-transform: uppercase;
+    font-weight: 300; }
+
+/*# sourceMappingURL=style.css.map */
